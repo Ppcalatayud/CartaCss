@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+
+    html {
+        text-align: center;
+        background-color: rgb(212, 247, 247);
+       
+      
+    }
+
+
+    /* .foto{
+        
+        vertical-align: text-top;
+    }
+     */
+
+    .Miss { 
+        text-align: left;
+        font-weight: 900;
+    }
+
+    .Titulo {
+        text-align: center;
+        color:rgb(0, 0, 0);
+        text-decoration: underline overline;
+        writing-mode: horizontal-tb; 
+        font-family: 'Oswald', sans-serif;
+
+    } 
+
+    .Titulos2 {
+        font-size:  25px;
+        text-align: center;
+        text-decoration: underline;
+        font-family: 'Tomorrow', sans-serif;
+        
+    }
+
+    .Tabla {
+
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
+    }
+
+
+
+
+
+
+    .Texto3 {
+        line-height: 120%
+    }
+ 
+
+
+
+
+
+    .Footer{
+        font-weight: 900;
+        word-spacing: 20px;
+    }
+
+    
